@@ -21,7 +21,7 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6i0587_000.yaml, hash: 'sha256:66aa7300319eaf1eb3de3d1d0aaf1a74720b65b07d77ce69f0702cd4a326efeb'}
+  - {seq: 0, filename: KR6i0587_000.yaml, hash: 'sha256:ae10141c93afd864b6d060fd9c7c0eb23fb063d8b97c8f1dd0b0ecef9dc0dd38'}
   - {seq: 1, filename: KR6i0587_001.yaml, hash: 'sha256:b56bd130c9c71ffb0c66889b6146939d83a111193dc0e05c8e6de65775a57d15'}
   - {seq: 2, filename: KR6i0587_002.yaml, hash: 'sha256:2e99f7eb26b0fcc2393c0315d51107f1d7b9ef0b80b735f752900a90c01d372b'}
   - {seq: 3, filename: KR6i0587_003.yaml, hash: 'sha256:66eaceac01b9ff8a078093c2eb360b369e714d99fd9a89fc9a739a341e58b5c2'}
@@ -37,7 +37,7 @@ assets:
   - {seq: 13, filename: KR6i0587_013.yaml, hash: 'sha256:3426e00def394ca8f9a69e639ccc85b09c41581f372082546f407470dea94f28'}
   - {seq: 14, filename: KR6i0587_014.yaml, hash: 'sha256:9cbd1d07124eb5df3f7fd550b783292dd3f72d1d91d0d12adc639149d21a5ba1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0587_000.markers.yaml, hash: 'sha256:10a7c96725e5afa8dee887d07c6a716adfbf792efcf05ab81be18e793977bdb2'}
+  - {seq: 0, role: markers, filename: assets/KR6i0587_000.markers.yaml, hash: 'sha256:6ed85fe4c299f04a3f01097307a61c0e071500acc650e90d97f7f0e5ee9fd153'}
   - {seq: 1, role: markers, filename: assets/KR6i0587_001.markers.yaml, hash: 'sha256:d98e2ffc3534fea756e3cea02382d66708929bad8975a1480cc411486b420d7a'}
   - {seq: 2, role: markers, filename: assets/KR6i0587_002.markers.yaml, hash: 'sha256:b035cc6404019b44ae4065a5f7e6a6852eb892afa1428c469c1adeecafb69468'}
   - {seq: 3, role: markers, filename: assets/KR6i0587_003.markers.yaml, hash: 'sha256:d7d51616e29cb101ce13aee63456df55b48d7407c19b5f837bbe3971d1f19722'}
@@ -57,7 +57,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0587_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 674-A 俍亭和尚閱經十二種序
@@ -67,7 +67,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0587_X_000-mulu-2
     span:
-    - front
+    - body
     - 379
     - 379
   label: No. 674-B 俍亭和尚閱經十二種序
@@ -77,7 +77,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0587_X_000-mulu-3
     span:
-    - front
+    - body
     - 686
     - 686
   label: No. 674-C 雲溪俍亭和尚閱經十二種序
@@ -87,7 +87,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0587_X_000-mulu-4
     span:
-    - front
+    - body
     - 1167
     - 1167
   label: 閱經十二種目次
@@ -97,7 +97,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6i0587_X_000-mulu-5
     span:
-    - front
+    - body
     - 1222
     - 1222
   label: No. 674-1 華嚴經頌
@@ -2283,7 +2283,7 @@ table_of_contents:
   label: 涅槃後分
   type: mulu
   level: 1
-hash: sha256:650741f12919f357b2c67bd087f7d52a663f0a2104bce3630e964b64f3c5d05b
+hash: sha256:6b901fee599b7734b14ac79a49a84a3cca5fdb511ed831d163611898a60ab295
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
